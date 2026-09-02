@@ -44,3 +44,12 @@ memory-bank
 .cursor
 .specstory
 .cursorindexingignore
+### 민감 자료·비공개 내부 문서 (커밋 금지) ###
+docs/동구라미 자료*
+docs/*.sql
+docs/.ipynb_checkpoints/
+docs/CONTRIBUTIONS_2JANG.md
+docs/PROJECT_ANALYSIS.md
+docs/README-작성계획.md
+*.pem
+*.ppk
